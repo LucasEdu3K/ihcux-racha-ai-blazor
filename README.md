@@ -1,11 +1,12 @@
 # 💸 RachaAí — Dashboard Blazor
 
 > Projeto desenvolvido para a disciplina de **Interação Humano-Computador e UX**
-> Feito por: Lucas Eduardo Correia 
 > Centro Universitário UNA · Prof. Daniel Henrique Matos de Paiva
 
 
 ---
+
+Feito por: Lucas Eduardo Correia
 
 ## 📱 Wireframes (Miro) — Visão Geral
 
